@@ -9,6 +9,5 @@ Backend: Built with Java Spring Boot and Docker.
 Screenshots of the app:
 
 <img src="https://github.com/user-attachments/assets/0ccdca0f-220a-4854-9fbc-86c364b410c9" alt="Screenshot 1" width="400">
-<img src="https://github.com/user-attachments/assets/c32718dc-189c-45ab-aaa8-3eded856dd94" alt="Screenshot 2" width="400">
 <img src="https://github.com/user-attachments/assets/637c2fa8-1a9b-49a5-a1ea-c8d3b4a90b24" alt="Screenshot 3" width="400">
 
